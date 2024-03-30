@@ -1,7 +1,8 @@
 # my_card
 
 mey cartão de visita
-![Logo do meu aplicativo]([https://github.com/seu_usuario/seu_repositorio/raw/master/imagens/logo.png](https://github.com/RegiAlves/MyCard/blob/master/myCard.jpg?raw=true))
+![Logo do meu aplicativo](https://github.com/RegiAlves/MyCard/blob/master/myCard.jpg?raw=true)
+
 
 
 ## Getting Started
